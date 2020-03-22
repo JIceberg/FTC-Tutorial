@@ -8,8 +8,10 @@
 // please think carefully as to whether such customizations are really necessary
 // before doing so.
 
-
-// Custom definitions may go here
-
 // Include common definitions from above.
 apply from: '../build.common.gradle'
+
+// Custom definitions may go here
+dependencies {
+    implementation 'com.arcrobotics:ftclib:2.0.11'
+}
