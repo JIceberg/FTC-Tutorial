@@ -5,7 +5,7 @@ import com.arcrobotics.ftclib.hardware.RevIMU;
 import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 
-import org.firstinspires.ftc.teamcode.hardware.YellowJacket435;
+import org.firstinspires.ftc.teamcode.hardware.motors.YellowJacket435;
 
 // my first op mode! (not really lol)
 
